@@ -56,63 +56,36 @@ main {
 
 .home-page {
 margin: 0%;
-padding: 20px;
-}
+padding: 20px;}
 .institute-card {
   background-color: #ffffff;
-  margin-bottom: 20px;
+  margin-top: 40px;
   padding: 20px;
   border-radius: 10px;
- transition: transform 0.2s;
-}
+  transition: transform 0.2s;}
 .institute-card:hover {
-transform: scale(1.025);
-}
+transform: scale(1.025);}
 .institute-card h3 {
   color: #004d80;
-  margin-top: 0;
-}
-
-
-
-.student-section ul li {
-  margin-bottom: 10px;
-  line-height: 1.5;
-}
-.student-section ul li ul {
-  margin-top: 5px;
-  margin-left: 20px;
-  list-style-type: circle;
-}
+  font-size:25px ;}
 
 
 
 .results-page {
-  max-width: 1000px;
   margin: auto;
-  padding: 20px;
-}
+  padding: 20px;}
 .year-section {
-  margin-top: 40px;
+   margin-top: 40px;
   background-color: #fff;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 6px rgba(0,0,0,0.1);
-}
+  padding: 20px;}
 .results-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
-}
+  width: 100%;}
 .results-table th, .results-table td {
-  border: 1px solid #ddd;
   padding: 10px;
-  text-align: center;
-}
+  text-align: center;}
 .results-table th {
   background-color: #004d80;
-  color: white;
-}
+  color: white;}
 
 
 
@@ -126,6 +99,8 @@ transform: scale(1.025);
 .branch-card h3 {
   color: #0077b6;
   font-size: 25px;}
+
+
 
 .about-content {
   margin: 0;
@@ -141,6 +116,8 @@ transform: scale(1.025);}
 .about-section h3 {
   margin-top: 0;
   color: #004d80;}
+
+
 
 .site-footer {
   background-color: #004d80;
@@ -165,6 +142,8 @@ transform: scale(1.025);}
   font-size: 13px;
   color: #ccc;}
 
+
+
 .student-profile {
   margin-left: 20px;
   padding: 20px;}
@@ -186,6 +165,8 @@ transform: scale(1.025);}
   margin-top: 20px;}
 .student-section h3 {
   color: #0077b6;}
+
+
 
 .achievements-page {
   margin: auto;
@@ -209,32 +190,23 @@ transform: scale(1.025);}
 
 
 
-
-
 .staff-directory {
   padding: 20px;}
 .staff-grid {
   gap: 20px;}
 .staff-card {
   background: #fff;
-  padding: 15px;
-  border-radius: 10px;
-  transition: transform 0.2s;   }
-.staff-card:hover{
-  transform: scale(1.025);}
+  padding: 15px; }
 .staff-photo {
   height: 180px;
-  width: 100;
-  border: 2px solid #0077b6;}
+  width: 100px;}
 .staff-card h3 {
-  margin: 5px 0;
   color: #004d80;}
 .staff-card p {
-  margin: 8px 0;
   font-size: 14px;}
 
 
-
+  
 .extracurricular-page {
   padding: 20px;}
 .event-grid {
