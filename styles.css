@@ -17,11 +17,15 @@ header , h1{
       background-color: rgb(0, 86, 157);
       height: 100px;}
 header {
-  height: 200px;}
-.navbar{
-  position: -webkit-sticky ;
+  height: 100px;
+}
+nav.navbar{
+  position: -webkit-sticky;
   position: sticky;
-  top :0;}
+  text-align: center;
+  top :0;
+  height: 75px;
+}
 nav a {
   text-decoration: none;
   color: rgb(59, 59, 59);
